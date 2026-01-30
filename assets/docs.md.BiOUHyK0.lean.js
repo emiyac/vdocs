@@ -1,0 +1,1 @@
+import{_ as e,a,o as t}from"./chunks/framework.dRMRuUHH.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"docs","navbar":false,"footer":false,"sidebar":false},"headers":[],"relativePath":"docs.md","filePath":"docs.md"}'),o={name:"docs.md"};function s(r,c,d,n,f,i){return t(),a("div")}const _=e(o,[["render",s]]);export{p as __pageData,_ as default};
